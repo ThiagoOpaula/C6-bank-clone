@@ -1,16 +1,36 @@
 <div align="center">
 
+  <h1>Clone do C6-bank</h1>
+  <div>
+    <img src=https://img.shields.io/badge/-typescript-blue>
+    <img src=https://img.shields.io/github/issues/ThiagoOpaula/C6-bank-clone >
+    <img src=https://img.shields.io/github/forks/ThiagoOpaula/C6-bank-clone >
+    <img src=https://img.shields.io/github/stars/ThiagoOpaula/C6-bank-clone >
+    <img src=https://img.shields.io/github/license/ThiagoOpaula/C6-bank-clone >
+  </div>
+  
+  <div>Aplicativo clone do App do c6-bank, feito totalmente em react native usando typescript, todas animações foram feitas usando o react native Swipeable Panel</div>
+
+  
+  
+  <div>
+    <img src=https://media.giphy.com/media/fvkpC3AtmtnZ6Sr9Mt/giphy.gif>
+  </div>
+  
+  ## ⚙️ Instalação dos pacotes
+
+```
+$ yarn
+```
+Depois é só digitar 
+```
+$ yarn android
+```
+para rodar no emulador ou dispositivo fisico android
+
 <h1>React Native Swipeable Panel</h1>
 
-**rn-swipeable-panel** is a swipeable, easy to use bottom panel for your React Native projects. You can extend panel by swiping up, make it small or close by swiping down with pan gestures. Feel free to redesign inside of the panel.
-
-<div >
-  <img src=https://img.shields.io/github/issues/ThiagoOpaula/C6-bank-clone>
-  <img src=https://img.shields.io/github/forks/ThiagoOpaula/C6-bank-clone>
-  <img src=https://img.shields.io/github/stars/ThiagoOpaula/C6-bank-clone>
-  <img src=https://img.shields.io/github/license/ThiagoOpaula/C6-bank-clone>
-  <img src=https://img.shields.io/badge/-typescript-blue>
-</div>
+**rn-swipeable-panel** é um painel inferior deslizante e fácil de usar para seus projetos do React Native. Você pode estender o painel deslizando para cima, diminuindo ou fechando deslizando para baixo com gestos de panorâmica. Sinta-se livre para redesenhar dentro do painel.
 
 [![npm version](https://img.shields.io/npm/v/rn-swipeable-panel.svg)](https://www.npmjs.com/package/rn-swipeable-panel)
 
@@ -24,7 +44,7 @@
 
 <br/>
 
-## ⚙️ Installation
+## ⚙️ Instalação
 
 ```
 $ yarn add rn-swipeable-panel
@@ -32,7 +52,7 @@ $ yarn add rn-swipeable-panel
 
 <!-- ## Usage -->
 
-## 🚀 How to use
+## 🚀 Como usar
 
 ```javascript
 import React from "react";
