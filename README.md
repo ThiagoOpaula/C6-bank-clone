@@ -10,7 +10,7 @@
   </div>
 
   <h4 align="center">
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  React App 🚀 Em construção...  🚧
   </h4>
 
   <div align="center">Aplicativo clone do App do c6-bank</div>
