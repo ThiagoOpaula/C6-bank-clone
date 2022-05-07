@@ -9,10 +9,6 @@
     <img src=https://img.shields.io/github/license/ThiagoOpaula/C6-bank-clone >
   </div>
 
-  <h4 align="center">
-	🚧  React App 🚀 Em construção...  🚧
-  </h4>
-
   <div align="center">Aplicativo clone do App do c6-bank</div>
 
 
